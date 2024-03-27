@@ -27,6 +27,7 @@ Pour lancer une recherche il suffit de run le fichier Application.scala via sbt 
 sbt
 run
 ```
+Ou directement depuis un VS Code
 
 Ensuite, il suffit de taper la requête grâce à des mots clés simples séparés par les mots clés "and" et "or"
 
